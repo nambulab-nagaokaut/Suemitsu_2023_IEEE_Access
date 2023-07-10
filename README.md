@@ -13,6 +13,11 @@ IEEE Access, vol. 11, pp. 59542-59557, 2023
 
 Code is available from [Code Ocean](https://codeocean.com/capsule/1729852/tree)
 
+Here we have uploaded only typical CNN and CSP-LDA validation codes.
+
+To get started, read the Readme and specify the code you want to run in the Run file. Default is ```CSP_LDA_2a.py```
+
+
 https://codeocean.com/capsule/1729852/tree
 
 
